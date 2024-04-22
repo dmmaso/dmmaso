@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hola, mi nombre es Dani Massó 👋
 ### Desarrollador front-end
 
