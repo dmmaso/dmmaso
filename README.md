@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Hola, mi nombre es Dani Massó 👋
+### Desarrollador front-end
+
 <!--
 **dmmaso/dmmaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
