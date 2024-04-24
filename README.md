@@ -9,6 +9,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus 
 
 - [Proyecto 1](https://www.danielmasso.com/) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus risus. Nulla ac ipsum gravida massa vulputate venenatis vel nec arcu. Aenean vulputate ipsum ut est aliquet aliquet. Nulla ut leo et arcu gravida condimentum. Quisque elementum diam at felis placerat, sed tempor enim porttitor.
 
+- [Proyecto 2](https://www.danielmasso.com/) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus risus. Nulla ac ipsum gravida massa vulputate venenatis vel nec arcu. Aenean vulputate ipsum ut est aliquet aliquet. Nulla ut leo et arcu gravida condimentum. Quisque elementum diam at felis placerat, sed tempor enim porttitor.
+ 
+- [Proyecto 3](https://www.danielmasso.com/) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus risus. Nulla ac ipsum gravida massa vulputate venenatis vel nec arcu. Aenean vulputate ipsum ut est aliquet aliquet. Nulla ut leo et arcu gravida condimentum. Quisque elementum diam at felis placerat, sed tempor enim porttitor.
+
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi **[web](https://www.danielmasso.com/)**
