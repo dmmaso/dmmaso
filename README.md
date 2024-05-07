@@ -1,9 +1,17 @@
 # Hola, mi nombre es Dani Massó 👋
 ### Desarrollador front-end 🧑‍💻
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus risus. Nulla ac ipsum gravida massa vulputate venenatis vel nec arcu. Aenean vulputate ipsum ut est aliquet aliquet. Nulla ut leo et arcu gravida condimentum. Quisque elementum diam at felis placerat, sed tempor enim porttitor.
+Soy diseñador y desarrollador web de Barcelona (Sitges). Diplomado en la carrera de Artes Visuales por el Instituto Artes Visuales (https://artesvisuales.com).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lacus risus. Nulla ac ipsum gravida massa vulputate venenatis vel nec arcu. Aenean vulputate ipsum ut est aliquet aliquet. Nulla ut leo et arcu gravida condimentum. Quisque elementum diam at felis placerat, sed tempor enim porttitor. 
+Desde mis inicios, mi carrera como Desarrollador Front-end y Maquetador Web ha sido un viaje de constante evolución y aprendizaje. Con una sólida base en HTML5, CSS3 (SASS) y JavaScript, he sido capaz de dar vida a diseños creativos y funcionales. La incorporación de frameworks como Bootstrap y Tailwind CSS ha mejorado mi eficiencia y calidad en el desarrollo, asegurando la coherencia y compatibilidad en diferentes dispositivos y navegadores.
+
+En mi búsqueda de la excelencia, he profundizado en JavaScript, explorando frameworks modernos como React, Vue y Astro. Estas herramientas me han permitido crear aplicaciones web dinámicas y altamente interactivas, elevando la experiencia del usuario a nuevos niveles.
+
+Reconociendo la importancia del trabajo colaborativo, he adoptado GIT como mi principal herramienta de control de versiones, facilitando la colaboración con otros desarrolladores y manteniendo un flujo de trabajo ordenado y eficiente en todos los proyectos.
+
+Como freelance, he adquirido una amplia experiencia en la creación de sitios web utilizando gestores de contenido como WordPress. Esta plataforma me ha permitido ofrecer soluciones personalizadas y fáciles de administrar para una variedad de necesidades y objetivos comerciales.
+
+En resumen, mi trayectoria está marcada por una pasión en busca de la excelencia y una dedicación constante a la mejora continua. Estoy emocionado por las oportunidades futuras para seguir creando experiencias digitales extraordinarias y enfrentar nuevos desafíos en este apasionante campo.
 
 ## 💼 Proyectos
 
